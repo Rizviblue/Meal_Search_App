@@ -37,3 +37,6 @@ This app allows users to search for meals by name and view basic information abo
 mealbook/ │ ├── index.html ├── style.css ├── script.js └── README.md
 
 ---
+
+## 🙋‍♂️ Made with ❤️ by Rizviblue!
+
