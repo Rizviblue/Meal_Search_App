@@ -38,9 +38,6 @@ mealbook/ │ ├── index.html ├── style.css ├── script.js └�
 
 ---
 
-
----
-
 ## 🙋‍♂️ Made with ❤️ by Rizviblue!
 
 ---
